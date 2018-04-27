@@ -109,11 +109,6 @@ function shortQuestions(count) {
     }
     return count;
 }
-module.exports = blank();
-module.exports = display();
-global.document = new JSDOM(html).widows.document;
-var jsdom = require("../jsdom");
-var JSDOM = jsdom.JSDOM;
 
     
 
