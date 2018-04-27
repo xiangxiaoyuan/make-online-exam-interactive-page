@@ -1,0 +1,85 @@
+@charset "UTF-8";
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 1500px;
+}
+.header{
+    height: 100px;
+}
+.center{
+    padding-left: 30px;
+}
+.header .top{
+    line-height: 25px;
+    height: 30px;
+}
+.title{
+    font-size: 20px;
+    line-height: 50px;
+    padding: 0;
+}
+.header .text{
+    font-size: 10px;
+    width: 200px;
+    float: left;
+    height: 25px;
+    line-height: 25px;
+    padding: 0;
+}
+.floor ul li span{
+    font-size: 10px;
+}
+.header .floor{
+    height: 25px;
+}
+.header .floor ul li{
+    height: 25px;
+    line-height: 25px;
+    float: left;
+    width: 200px;
+}
+.subjectOne{
+    padding-top: 30px;
+}
+li{
+    list-style: none;
+    height: 25px;
+    line-height: 25px;
+    font-size: 10px;
+}
+.subject{
+    line-height: 50px;
+    font-size: 15px;
+}
+p{
+    font-size: 10px;
+    padding: 20px;
+}
+.padding{
+    padding-left: 40px;
+}
+.subjectFive .anwser{
+    padding-left: 20px;
+}
+.subjectFive .anwser p{
+    padding: 0px;
+    padding-bottom: 15px;
+}
+.subjectFive .anwser input{
+    width: 400px;
+    height: 100px;
+}
+.subjectFive .anwser .input{
+    padding-left: 6px;
+}
+.subjectOne .padding{
+    padding-left: 20px;
+}
+.subjectFour .padding{
+    padding: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
